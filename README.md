@@ -7,7 +7,7 @@ The focus of this course was the following:
 * File and directory manipulation (1st assignment)
 * Creation and management of processes and threads (1st and 2nd assignment)
 * Intercommunication between processes: signals, pipes, FIFOs and shared memory (essentially 2nd assignment)
-* Sincronization between processes and threads (semaphores, mutexes and condition variables)
+* Sincronization between processes and threads (semaphores, mutexes and condition variables) (2nd assignment)
 
 Credits:
 * [Mário Fernandes](https://github.com/MarioFernandes73)
